@@ -42,7 +42,6 @@ export default function Header({ currentPage, onNavigate, user, profile, onLogou
     { name: t('header.about'), page: 'about' },
     { name: t('header.programs'), page: 'programs' },
     { name: t('header.teachers'), page: 'teachers' },
-    { name: t('header.gallery'), page: 'gallery' },
     { name: t('header.news'), page: 'news' },
     { name: t('header.contact'), page: 'contact' },
   ];

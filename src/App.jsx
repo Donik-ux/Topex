@@ -9,7 +9,6 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ProgramsPage from './pages/ProgramsPage';
 import TeachersPage from './pages/TeachersPage';
-import GalleryPage from './pages/GalleryPage';
 import NewsPage from './pages/NewsPage';
 import NewsDetailPage from './pages/NewsDetailPage';
 import ContactPage from './pages/ContactPage';
